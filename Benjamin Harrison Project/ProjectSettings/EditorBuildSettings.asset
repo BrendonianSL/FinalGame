@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 044141af476674f47828386138a53625
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 8700edcc6d38671429f418a2e318406e
+  - enabled: 1
+    path: Assets/Scenes/GMS_Rhythm_testing.unity
+    guid: cff3404fc5f5fb5479a9267472f79d1f
+  - enabled: 1
+    path: Assets/Scenes/Level2Redux.unity
+    guid: 45b6e0ea0d9fa7448ab006c87e09292b
+  - enabled: 1
+    path: Assets/Scenes/GMS_Rhythm_testing2.unity
+    guid: 5f676e9d58017414cbfb63dfaf893cb4
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 8eda78bb8c1165341be248be112e2c56
+  m_configObjects: {}

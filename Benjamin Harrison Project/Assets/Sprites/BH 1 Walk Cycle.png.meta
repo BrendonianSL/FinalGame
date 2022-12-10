@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 0f92426b38b0feb449db49929c105f38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6591528179895157014
+    second: BH 1 Walk Cycle_0
+  - first:
+      213: 8502910451688875679
+    second: BH 1 Walk Cycle_1
+  - first:
+      213: 7077271224143121951
+    second: BH 1 Walk Cycle_2
+  - first:
+      213: -8259793091734941516
+    second: BH 1 Walk Cycle_3
+  - first:
+      213: -3663902356124659126
+    second: BH 1 Walk Cycle_4
+  - first:
+      213: -1930222892871014432
+    second: BH 1 Walk Cycle_5
+  - first:
+      213: -4122741121739338137
+    second: BH 1 Walk Cycle_6
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee3f563b003684a0800000000000000
+      internalID: -6591528179895157014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 64
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f962fd56108600670800000000000000
+      internalID: 8502910451688875679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 64
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e052e6ea4873260800000000000000
+      internalID: 7077271224143121951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_3
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 32
+        width: 13
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0d9e002f15f5d80800000000000000
+      internalID: -8259793091734941516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 32
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4219732834372dc0800000000000000
+      internalID: -3663902356124659126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 32
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a81571887635e0800000000000000
+      internalID: -1930222892871014432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BH 1 Walk Cycle_6
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ec4d10bc419c6c0800000000000000
+      internalID: -4122741121739338137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -29, y: -47}
+      - {x: -29, y: -45}
+      - {x: -30, y: -44}
+      - {x: -29, y: -43}
+      - {x: -29, y: -39}
+      - {x: -31, y: -37}
+      - {x: -27, y: -36}
+      - {x: -27, y: -32}
+      - {x: -30, y: -28}
+      - {x: -31, y: -26}
+      - {x: -28, y: -22}
+      - {x: -28, y: -21}
+      - {x: -31, y: -18}
+      - {x: -29, y: -16}
+      - {x: -29, y: -14}
+      - {x: -30, y: -13}
+      - {x: -30, y: -5}
+      - {x: -31, y: -4}
+      - {x: -31, y: 5}
+      - {x: -28, y: 9}
+      - {x: -28, y: 10}
+      - {x: -32, y: 14}
+      - {x: -28, y: 15}
+      - {x: -28, y: 18}
+      - {x: -30, y: 22}
+      - {x: -30, y: 25}
+      - {x: -27, y: 28}
+      - {x: -27, y: 30}
+      - {x: -31, y: 33}
+      - {x: -31, y: 40}
+      - {x: -29, y: 42}
+      - {x: -29, y: 43}
+      - {x: -34, y: 48}
+      - {x: -39, y: 48}
+      - {x: -43, y: 44}
+      - {x: -43, y: 41}
+      - {x: -42, y: 40}
+      - {x: -47, y: 35}
+      - {x: -47, y: 32}
+      - {x: -44, y: 26}
+      - {x: -47, y: 23}
+      - {x: -47, y: 21}
+      - {x: -48, y: 20}
+      - {x: -48, y: 16}
+      - {x: -46, y: 14}
+      - {x: -41, y: 14}
+      - {x: -39, y: 16}
+      - {x: -39, y: 21}
+      - {x: -38, y: 22}
+      - {x: -37, y: 16}
+      - {x: -36, y: 15}
+      - {x: -38, y: 15}
+      - {x: -42, y: 11}
+      - {x: -42, y: 8}
+      - {x: -41, y: 6}
+      - {x: -45, y: 2}
+      - {x: -45, y: 0}
+      - {x: -42, y: -3}
+      - {x: -42, y: -9}
+      - {x: -45, y: -12}
+      - {x: -45, y: -16}
+      - {x: -43, y: -18}
+      - {x: -40, y: -18}
+      - {x: -42, y: -20}
+      - {x: -42, y: -23}
+      - {x: -41, y: -25}
+      - {x: -44, y: -27}
+      - {x: -45, y: -30}
+      - {x: -45, y: -36}
+      - {x: -42, y: -39}
+      - {x: -46, y: -43}
+      - {x: -46, y: -47}
+      - {x: -45, y: -48}
+      - {x: -30, y: -48}
+    - - {x: 1, y: -6}
+      - {x: 3, y: -6}
+      - {x: 5, y: -4}
+      - {x: 5, y: 0}
+      - {x: 4, y: 2}
+      - {x: 2, y: 3}
+      - {x: 2, y: 8}
+      - {x: 4, y: 10}
+      - {x: 4, y: 11}
+      - {x: 0, y: 15}
+      - {x: 1, y: 16}
+      - {x: 0, y: 22}
+      - {x: 4, y: 26}
+      - {x: 4, y: 29}
+      - {x: 2, y: 32}
+      - {x: 1, y: 38}
+      - {x: 4, y: 42}
+      - {x: 4, y: 43}
+      - {x: -1, y: 48}
+      - {x: -6, y: 48}
+      - {x: -10, y: 44}
+      - {x: -10, y: 41}
+      - {x: -9, y: 39}
+      - {x: -13, y: 34}
+      - {x: -13, y: 31}
+      - {x: -10, y: 28}
+      - {x: -10, y: 25}
+      - {x: -14, y: 21}
+      - {x: -14, y: 19}
+      - {x: -10, y: 15}
+      - {x: -7, y: 15}
+      - {x: -10, y: 12}
+      - {x: -10, y: 9}
+      - {x: -9, y: 8}
+      - {x: -14, y: 3}
+      - {x: -14, y: 0}
+      - {x: -12, y: -2}
+      - {x: -11, y: -8}
+      - {x: -14, y: -11}
+      - {x: -14, y: -13}
+      - {x: -10, y: -17}
+      - {x: -7, y: -17}
+      - {x: -6, y: -18}
+      - {x: -1, y: -18}
+      - {x: 1, y: -16}
+      - {x: 0, y: -10}
+      - {x: 1, y: -9}
+    - - {x: 32, y: -12}
+      - {x: 34, y: -10}
+      - {x: 34, y: -7}
+      - {x: 37, y: -4}
+      - {x: 37, y: -2}
+      - {x: 35, y: 1}
+      - {x: 34, y: 2}
+      - {x: 34, y: 5}
+      - {x: 33, y: 6}
+      - {x: 36, y: 10}
+      - {x: 36, y: 11}
+      - {x: 32, y: 15}
+      - {x: 33, y: 17}
+      - {x: 32, y: 22}
+      - {x: 34, y: 24}
+      - {x: 34, y: 26}
+      - {x: 33, y: 27}
+      - {x: 37, y: 31}
+      - {x: 37, y: 33}
+      - {x: 33, y: 36}
+      - {x: 33, y: 38}
+      - {x: 36, y: 42}
+      - {x: 36, y: 43}
+      - {x: 31, y: 48}
+      - {x: 26, y: 48}
+      - {x: 22, y: 44}
+      - {x: 22, y: 41}
+      - {x: 23, y: 39}
+      - {x: 21, y: 37}
+      - {x: 21, y: 33}
+      - {x: 22, y: 32}
+      - {x: 21, y: 31}
+      - {x: 21, y: 28}
+      - {x: 22, y: 27}
+      - {x: 23, y: 23}
+      - {x: 21, y: 19}
+      - {x: 21, y: 16}
+      - {x: 24, y: 14}
+      - {x: 22, y: 12}
+      - {x: 22, y: 9}
+      - {x: 23, y: 8}
+      - {x: 20, y: 6}
+      - {x: 19, y: 3}
+      - {x: 19, y: -1}
+      - {x: 20, y: -2}
+      - {x: 20, y: -6}
+      - {x: 22, y: -8}
+      - {x: 19, y: -11}
+      - {x: 19, y: -16}
+      - {x: 21, y: -18}
+      - {x: 26, y: -18}
+      - {x: 27, y: -17}
+      - {x: 30, y: -17}
+      - {x: 32, y: -15}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
